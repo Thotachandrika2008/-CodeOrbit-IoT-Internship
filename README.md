@@ -27,7 +27,7 @@ Topics Covered:
 - Advantages and Challenges of IoT
 
 Deliverable: 
-- Implementation: To be added.
+- Implementation:  
 
 Task 2
 
